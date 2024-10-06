@@ -1,0 +1,36 @@
+
+
+.service-container {
+    display: flex;
+    height: 200px;
+    background-color: #007bff;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .service-container .content {
+    width: 50%;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  .service-container .content .btn {
+    margin-bottom: 10px;
+  }
+  
+  .service-container .content .form-control {
+    margin-bottom: 10px;
+  }
+  
+  .service-container .content .table {
+    margin-top: 20px;
+  }
+  
+  body{
+    background-image: url('../images/backgroundForm.jpg');
+    background-size: cover;
+    background-position: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }

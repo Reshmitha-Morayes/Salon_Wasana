@@ -1,0 +1,72 @@
+nav {
+    background-color: #282828;
+    padding: 10px;
+    display: flex;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 2%;
+  }
+  
+  li {
+    display: inline;
+    margin-right: 30px;
+    
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: lightgray;
+  }
+
+.search-container {
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search-container input[type="text"] {
+    width: 75%; /* Set the width of the input field */
+    margin-right: 20px; /* Add some margin to separate the input field from the button */
+    margin-top: 17px;
+}
+
+.search-container button {
+    width: 100px; /* Set the width of the button */
+}
+
+.service-box {
+    border-radius: 20px; /* Increase the border-radius value to make the box more rounded */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Adjust box shadow as needed */
+}
+
+h2{
+    font-size: 25px !important;
+    color: indigo;
+    font-style: italic;
+    margin-left: 25px;
+}
+
+h1{
+    font-size: 20px !important;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}

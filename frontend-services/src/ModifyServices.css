@@ -1,0 +1,42 @@
+/* ModifyServices.css */
+
+.container {
+    display: flex;
+    height: 200px;
+    background-color: #007bff;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container .content {
+    width: 50%;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  .container .content .service-type {
+    margin-bottom: 20px;
+  }
+  
+  .container .content table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .container .content table th,
+  .container .content table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .container .content table th {
+    background-color: #f2f2f2;
+    text-align: left;
+  }
+  
+  .container .content table img {
+    max-width: 100px;
+    max-height: 100px;
+  }
+  

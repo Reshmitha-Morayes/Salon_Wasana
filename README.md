@@ -1,1 +1,1 @@
-# work on salon service management function in salon wasana project in SLIIT using MERN stack
+💇 Comprehensive salon management system built with MERN Stack. Features include appointment scheduling, service management, staff management, and automated report generation. Team project for SLIIT Software Engineering module.
